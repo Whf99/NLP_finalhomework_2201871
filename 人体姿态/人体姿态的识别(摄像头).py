@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@author:
+@author:王鸿菲
 """
 # opencv-python
 import cv2
